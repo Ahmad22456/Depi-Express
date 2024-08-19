@@ -6,9 +6,17 @@ const port = process.env.PORT;
 
 app.listen(port, () => console.log(`Server running on port ${port}`));
 
+// Middleware
+app.use(express.json());
+
 // Get Request
 app.get("/", (req, res) => {
   res.status(200).json({
     msg: "Get Request",
   });
+});
+
+// Post Request
+app.post("/", (req, res) => {
+  res.status(201).json(req.body);
 });
