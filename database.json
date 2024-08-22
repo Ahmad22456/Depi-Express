@@ -1,1 +1,17 @@
-{"Users":[{"id":1,"name":"ali"}],"Last_Id":2}
+[
+    { "id": 1, "name": "Spaghetti Bolognese", "category": "Italian", "price": 12 },
+    { "id": 2, "name": "Margherita Pizza", "category": "Italian", "price": 10 },
+    { "id": 3, "name": "Lasagna", "category": "Italian", "price": 14 },
+    { "id": 4, "name": "Caesar Salad", "category": "Salad", "price": 8 },
+    { "id": 5, "name": "Greek Salad", "category": "Salad", "price": 7 },
+    { "id": 6, "name": "Chicken Salad", "category": "Salad", "price": 9 },
+    { "id": 7, "name": "Beef Tacos", "category": "Mexican", "price": 11 },
+    { "id": 8, "name": "Chicken Quesadilla", "category": "Mexican", "price": 10 },
+    { "id": 9, "name": "Guacamole", "category": "Mexican", "price": 6 },
+    { "id": 10, "name": "Sushi", "category": "Japanese", "price": 15 },
+    { "id": 11, "name": "Ramen", "category": "Japanese", "price": 13 },
+    { "id": 12, "name": "Tempura", "category": "Japanese", "price": 14 },
+    { "id": 13, "name": "Butter Chicken", "category": "Indian", "price": 12 },
+    { "id": 14, "name": "Tandoori Chicken", "category": "Indian", "price": 13 },
+    { "id": 15, "name": "Paneer Tikka", "category": "Indian", "price": 11 }
+]
